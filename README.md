@@ -21,7 +21,7 @@ hsh main.c shell.c
 $
 ```
 
-* Non-interactie mode:
+* Non-interactive mode:
 ```
 $ echo "/bin/ls" | ./hsh
 hsh main.c shell.c test_ls_2
@@ -108,5 +108,5 @@ File|Description
 ---
 
 ## Authors
-* **Nii Tetteh Odoi** - [Nii-Odoi1](https://github.com/Nii-Odoi1)
-* **George Amankwah Agyenim** - [George-Amankwah-Agyenim](https://github.com/George-Amankwah-Agyenim)
+* **Vanessa Baah-Williams** 
+* **Ransom Quaye** 
